@@ -7,6 +7,7 @@ int main()
 	int a,b,c,d,w,x,y,z,m;
 	char n;
 	bool o;
+	cout<<"Para calcular el tiempo exacto de trabajo siga las instrucciones"
 	cout<<"¿Usted trabaja de un dia hasta el dia siguiente? (s/n): ";
 	cin>>n;
 	o=n=='s';
